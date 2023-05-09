@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/savePoint" android:title="@string/savePoint" />
+    <item android:id ="@+id/addPoint" android:title="@string/addPoint"/>
+    <item android:id="@+id/preference" android:title="Preference"/>
+    <item android:id="@+id/displaypoi" android:title="Display POI"/>
+    <item android:id="@+id/displayWebPOI" android:title="Display Web POI"/>
+</menu>

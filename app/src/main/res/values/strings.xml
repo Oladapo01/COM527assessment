@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">oladapoGiwa</string>
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar"></style>
+    <string name="addPoint">Add Point of interest</string>
+    <string name="savePoint">Save</string>
+    <string name="name">Name</string>
+    <string name="type_pub_restaurant_historical_site_hotel_etc">Type (pub, restaurant, historical site, hotel, etc.)</string>
+    <string name="description">Description</string>
+    <string name="preference">Preference</string>
+    <string name="add">Add</string>
+    <string name="displaypoi">Display POI</string>
+    <string name="displayWebPOI">Display Web POI</string>
+</resources>
